@@ -1,26 +1,31 @@
 # Run Python Selenium Tests with Jenkins on TestMu AI (Formerly LambdaTest)
 
+<p align="center">
+  <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
+  <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
+</p>
+
 [![TestMu AI](https://img.shields.io/badge/TestMu%20AI-Formerly%20LambdaTest-blue)](https://www.testmuai.com/)
 [![Selenium](https://img.shields.io/badge/Selenium-Testing-green)](https://www.testmuai.com/)
 
 Jenkins Pipeline is also referred to as "Pipeline" offers a suite of plugins to help integrate your continuous delivery pipeline into Jenkins. Jenkins Pipeline does so with the help of Pipeline DSL(Domain Specific Language) syntax that facilitates easy modelling of even the most complex delivery pipeline. 
 
-You can easily create a Jenkins pipeline for Python-selenium automation tests on TestMu AI (Formerly LambdaTest) using the following steps. You can refer to sample test repo [here](https://github.com/LambdaTest/python-selenium-sample).
+You can easily create a Jenkins pipeline for Python-selenium automation tests on TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) using the following steps. You can refer to sample test repo [here](https://github.com/LambdaTest/python-selenium-sample).
 
 
-## Getting Started with TestMu AI (Formerly LambdaTest)
+## Getting Started with TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
 
-TestMu AI (Formerly LambdaTest) is an AI-native, multi-agent quality engineering platform for running Selenium, Playwright, Cypress, Appium, and more at scale across 3000+ real browsers and OS combinations.
+TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) is an AI-native, multi-agent quality engineering platform for running Selenium, Playwright, Cypress, Appium, and more at scale across 3000+ real browsers and OS combinations.
 
 [Sign up for free](https://accounts.testmuai.com/register) · [Docs](https://www.testmuai.com/support/docs/)
 
-## Prerequisites For Configuring Jenkins Pipeline With TestMu AI (Formerly LambdaTest)
+## Prerequisites For Configuring Jenkins Pipeline With TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
 
 1.  Jenkins 2.X or greater version.
 2.  A Jenkins User with root access.
 3.  Ensure you have the Pipeline plugin, although, it is displayed under the "suggested plugins" during the post-installation setup of Jenkins.
-4.  **TestMu AI (Formerly LambdaTest) Authentication Credentials**
-Be aware of your TestMu AI (Formerly LambdaTest) authentication credentials i.e. your TestMu AI (Formerly LambdaTest) username, access key and HubURL. You need to set them up as your environment variables. You can retrieve them from your  **TestMu AI (Formerly LambdaTest) automation dashboard**  by clicking on the key icon near the help button.
+4.  **TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Authentication Credentials**
+Be aware of your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) authentication credentials i.e. your TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) username, access key and HubURL. You need to set them up as your environment variables. You can retrieve them from your  **TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) automation dashboard**  by clicking on the key icon near the help button.
 
 -   For Linux/Mac:
     
@@ -98,15 +103,15 @@ You can now add this script when creating the pipeline by using the following st
 
 **Note:**  To run on the tunnel, Either you can use LT_TUNNEL Environment variable to set the tunnelling capability or you can pass in the code. Instructions on the tunnel are are available in the sample repo readme.
 
-## TestMu AI (Formerly LambdaTest) Community
+## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Community
 
 Connect with testers and developers in the [TestMu AI Community](https://community.testmuai.com/). Ask questions, share what you are building, and discuss best practices in test automation and DevOps.
 
-## TestMu AI (Formerly LambdaTest) Certifications
+## TestMu AI (Formerly TestMu AI (Formerly LambdaTest)) Certifications
 
 Earn free [TestMu AI Certifications](https://www.testmuai.com/certifications/) for testers, developers, and QA engineers. Validate your skills in Selenium, Cypress, Playwright, Appium, Espresso and more. Industry-recognized, shareable on LinkedIn, and built by practitioners, not marketers.
 
-## Learning Resources by TestMu AI (Formerly LambdaTest)
+## Learning Resources by TestMu AI (Formerly TestMu AI (Formerly LambdaTest))
 
 Learn modern testing through tutorials, guides, videos, and weekly updates:
 
